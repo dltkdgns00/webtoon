@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webtoon/static/css/main.b5f04df3.css",
+    "main.js": "/webtoon/static/js/main.adb2b4ef.js",
+    "static/js/453.2d6ac07d.chunk.js": "/webtoon/static/js/453.2d6ac07d.chunk.js",
+    "index.html": "/webtoon/index.html",
+    "main.b5f04df3.css.map": "/webtoon/static/css/main.b5f04df3.css.map",
+    "main.adb2b4ef.js.map": "/webtoon/static/js/main.adb2b4ef.js.map",
+    "453.2d6ac07d.chunk.js.map": "/webtoon/static/js/453.2d6ac07d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5f04df3.css",
+    "static/js/main.adb2b4ef.js"
+  ]
+}
