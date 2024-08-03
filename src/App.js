@@ -30,7 +30,6 @@ function App()
       <main className="container mt-4">
         <div className="scene mb-3">
           <img className="img-fluid" src={scenes[currentScene].image} alt={`Scene ${currentScene + 1}`} />
-          <p className="mt-2">{scenes[currentScene].description}</p>
         </div>
         <div className="navigation d-flex justify-content-between">
           <button className="btn btn-secondary" onClick={prevScene}>&lt; Previous</button>
